@@ -1,0 +1,153 @@
+/* header responsive */
+@media(max-width:1115px){
+    .container{
+        padding:0 15px;
+    }
+}
+@media(max-width:1059px){
+    .images{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .image1{
+        margin-bottom: 20px;
+    }
+    .pic{
+        margin-top:30px;
+    }
+}
+@media(max-width:1105px){
+    .room-box{
+        flex-wrap: wrap;
+    }
+    .room{
+        margin-top:20px;
+    }
+}
+@media(max-width:810px){
+    .box{
+        margin-bottom: 20px;
+    }
+    .second-div{
+        margin-top:30px;
+    }
+}
+@media(max-width:768px){
+    .nav{
+        display: none;
+    }
+    .burger-icon{
+        display: block;
+    }
+} 
+@media(max-width:738px){
+    .image-about{
+    flex-wrap: wrap;
+
+    }
+    
+}
+@media(max-width:612px){
+    .photo-para{
+        width:50%;    }
+}
+
+@media(max-width:570px){
+    .box{
+        margin-bottom: 20px;
+    }
+    .box-wraper{
+        justify-content: center;
+    }
+   
+}
+
+@media(max-width:580px){
+    .room{
+        width:100%;
+        text-align: center;
+    }
+    .profile{
+        width:100%;
+    }
+}
+
+@media(max-width:550px){
+    .image-wraper{
+    width:100%; 
+    margin-top:20px;   
+}
+.images{
+    width:100%;
+}
+.image3{
+    width:100%;
+}
+.profile{
+    margin-left:20px;
+}
+.photo-para{
+    
+    font-size:30px;
+}
+.container{
+    padding:0 20px;
+}
+
+}
+@media(max-width:514px){
+    .person{
+        width:50%;
+
+    }
+    .review{
+        width:50%;
+
+    }
+    
+}
+@media(max-width:450px){
+    .photo-para{
+        max-width:100%;
+        width:100%;
+    font-size:30px;
+    }
+}
+
+@media(max-width:438px){
+    .second-div{
+        flex-wrap: wrap;
+        align-items: center;
+
+    }
+    .wraper-div{
+        margin-top:10px;
+    }
+   
+}
+@media(max-width:438px){
+    .active{
+        margin-top:50px;
+    }
+}
+
+
+@media(max-width:350px){
+
+.pic{
+    width:50%;
+    flex-direction: column;
+}
+.images{
+    align-items: center ;   
+}
+.para-wraper{
+    font-size:30px;
+
+}
+.profile{
+    margin-left:20px;
+}
+}
+
+
